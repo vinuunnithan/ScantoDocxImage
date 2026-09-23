@@ -76,7 +76,7 @@ st.markdown("<h1 style='font-size: 32px;'>📝 PNG/PDF→Markdown→Word Convert
 st.write(
     "Upload your PNG images or PDF documents. Gemini AI will extract all text, tables, equations, "
     "and **visual figures/diagrams**, embed the images directly into Markdown, and compile a fully formatted **Word Document (.docx)**. "
-    "Developed by Dr. Vinu Unnikrishnan in collaboration with **Gemini AI**."
+    "Developed by VUU in collaboration with **Gemini AI**."
 )
 
 # Check signature status before displaying instructions or core application tools
