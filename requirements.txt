@@ -1,3 +1,7 @@
 google-genai
 pypandoc
 streamlit
+docx
+zipfile
+tempfile
+pymupdf
